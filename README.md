@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Desarrolladora Frontend | 💡 Apasionada por la tecnología y la creación de soluciones digitales
 
-<img align="right" alt="GIF" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="GIF" height="180px" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=ecf05e47udnoohdgwhbnl08sadwn1vffvnd53picrtld2abo&ep=v1_gifs_search&rid=200.webp&ct=g" />
 
 - 🔭 Actualmente trabajando en: **proyectos personales con React y Tailwind**
 - 🌱 Aprendiendo: **Next.js, TypeScript, y buenas prácticas de UI/UX**
