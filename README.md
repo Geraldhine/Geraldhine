@@ -36,11 +36,12 @@
 
 ## 🧩 Últimos Proyectos
 
-- 🎮 [App de Criaturas RPG](https://github.com/tuusuario/rpg-creature-search-app)
-- 📅 [Gestor de Asistencia Escolar](https://github.com/tuusuario/asistencia-app)
-- 🛒 [Tienda en línea con React](https://github.com/tuusuario/ecommerce-app)
+- 🏥 [APP-posta](https://github.com/Geraldhine/APP-posta): Aplicación para gestión de citas en postas médicas.
+- 📱 [Posta_Medica_Huancayo](https://github.com/Geraldhine/Posta_Medica_Huancayo): Proyecto de posta médica en Huancayo desarrollado en Dart.
+- 🦷 [Gesti-ndeOdontogramas](https://github.com/Geraldhine/Gesti-ndeOdontogramas): Sistema de gestión de odontogramas.
+- 📝 [blog-node-express-react](https://github.com/Geraldhine/blog-node-express-react): Blog personal construido con Node.js, Express y React.
+- 🛒 [Ecomerce_Proyect](https://github.com/Geraldhine/Ecomerce_Proyect): Proyecto de comercio electrónico desarrollado con TypeScript,Next.js.
 
----
 
 ## 🌐 Conecta conmigo
 
