@@ -45,7 +45,7 @@
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/tuusuario]([https://github.com/Geraldhine](http://www.linkedin.com/in/geraldhine-mayormi-chiclla-orihuela-862950277)))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](http://www.linkedin.com/in/geraldhine-mayormi-chiclla-orihuela-862950277)
 
 
 > ✨ “Construyendo un proyecto a la vez, aprendiendo todos los días.”  
