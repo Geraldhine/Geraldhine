@@ -25,11 +25,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Geraldhine&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geraldhine&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/-Portafolio-FF6347?style=flat&logo=firefox-browser)](https://tuportafolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)]([https://linkedin.com/in/tuusuario]([https://github.com/Geraldhine](http://www.linkedin.com/in/geraldhine-mayormi-chiclla-orihuela-862950277)))
+
 
 > ✨ “Construyendo un proyecto a la vez, aprendiendo todos los días.”  
