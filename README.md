@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente trabajando en: **proyectos personales con React y Tailwind**
 - 🌱 Aprendiendo: **Next.js, TypeScript, y buenas prácticas de UI/UX**
-- 💬 Pregúntame sobre: JavaScript, CSS, React, Firebase...
+- 💬 Pregúntame sobre: JavaScript, CSS, React, Sql,MySql...
 - 📫 Contacto: [chi.ori.geral@gmail.com](mailto:chi.ori.geral@gmail.com)
 - ⚡ Fun fact: ¡Me encanta el café y programar de noche! ☕
 
